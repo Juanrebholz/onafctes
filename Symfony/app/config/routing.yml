@@ -1,0 +1,4 @@
+onafctes_web:
+    resource: "@OnafctesWebBundle/Resources/config/routing.yml"
+    prefix:   /
+
